@@ -1,0 +1,19 @@
+.container-fluid{
+    background-image: url(./istockphoto-1216628493-612x612.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.h6{
+    margin-left: 10px;
+    float: left;
+}
+
+
+.section-img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
